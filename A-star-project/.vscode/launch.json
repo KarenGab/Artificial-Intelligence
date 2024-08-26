@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: A-star-project",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\A-star-project\\A-star-project.csproj",
+            "launchConfigurationId": "TargetFramework=;A-star-project"
+        }
+    ]
+}

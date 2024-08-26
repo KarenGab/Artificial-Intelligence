@@ -1,0 +1,15 @@
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\bin\Debug\net8.0\A-star-project.exe
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\bin\Debug\net8.0\A-star-project.deps.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\bin\Debug\net8.0\A-star-project.runtimeconfig.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\bin\Debug\net8.0\A-star-project.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\bin\Debug\net8.0\A-star-project.pdb
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.AssemblyInfoInputs.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.AssemblyInfo.cs
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.csproj.CoreCompileInputs.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.sourcelink.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\refint\A-star-project.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.pdb
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\A-star-project.genruntimeconfig.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A-star-project\A-star-project\obj\Debug\net8.0\ref\A-star-project.dll
