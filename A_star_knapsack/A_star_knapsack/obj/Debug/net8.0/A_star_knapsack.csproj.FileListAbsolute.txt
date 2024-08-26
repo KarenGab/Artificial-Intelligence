@@ -1,0 +1,15 @@
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\bin\Debug\net8.0\A_star_knapsack.exe
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\bin\Debug\net8.0\A_star_knapsack.deps.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\bin\Debug\net8.0\A_star_knapsack.runtimeconfig.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\bin\Debug\net8.0\A_star_knapsack.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\bin\Debug\net8.0\A_star_knapsack.pdb
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.AssemblyInfoInputs.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.AssemblyInfo.cs
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.csproj.CoreCompileInputs.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.sourcelink.json
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\refint\A_star_knapsack.dll
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.pdb
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\A_star_knapsack.genruntimeconfig.cache
+c:\Users\karengu\Documents\Personales\Maestría\IA\Dev\Artificial-Intelligence\A_star_knapsack\A_star_knapsack\obj\Debug\net8.0\ref\A_star_knapsack.dll
