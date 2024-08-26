@@ -1,0 +1,115 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Node
+{
+    public string State { get; }
+    public Node Parent { get; }
+    public string Action { get; }
+    public double PathCost { get; }
+
+    public Node(string state, Node parent = null, string action = null, double pathCost = 0)
+    {
+        State = state;
+        Parent = parent;
+        Action = action;
+        PathCost = pathCost;
+    }
+}
+
+class Problem
+{
+    public string InitialState { get; }
+
+    public Problem(string initialState)
+    {
+        InitialState = initialState;
+    }
+
+    public bool IsGoal(string state)
+    {
+        // Implement your goal state check here
+        // Return true if the state is the goal state, otherwise return false
+        return false;
+    }
+
+    public IEnumerable<string> Actions(string state)
+    {
+        // Implement your available actions for a given state
+        // Return a list of possible actions
+        return Enumerable.Empty<string>();
+    }
+
+    public string Result(string state, string action)
+    {
+        // Implement your transition model
+        // Given a state and an action, return the resulting state
+        return state;
+    }
+
+    public double ActionCost(string state, string action, string nextState)
+    {
+        // Implement your cost function
+        // Given a state, an action, and the resulting state, return the cost
+        return 0;
+    }
+}
+
+class AStarSearch
+{
+    public static Node BestFirstSearch(Problem problem, Func<Node, double> f)
+    {
+        var initialNode = new Node(state: problem.InitialState);
+        var frontier = new List<Node> { initialNode };
+        var reached = new Dictionary<string, Node> { { problem.InitialState, initialNode } };
+
+        while (frontier.Any())
+        {
+            var node = frontier.First();
+            frontier.RemoveAt(0);
+
+            if (problem.IsGoal(node.State))
+            {
+                return node;
+            }
+
+            foreach (var child in Expand(problem, node))
+            {
+                var s = child.State;
+                if (!reached.ContainsKey(s) || child.PathCost < reached[s].PathCost)
+                {
+                    reached[s] = child;
+                    frontier.Add(child);
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static IEnumerable<Node> Expand(Problem problem, Node node)
+    {
+        foreach (var action in problem.Actions(node.State))
+        {
+            var sPrime = problem.Result(node.State, action);
+            var cost = node.PathCost + problem.ActionCost(node.State, action, sPrime);
+            yield return new Node(state: sPrime, parent: node, action: action, pathCost: cost);
+        }
+    }
+
+    static void Main()
+    {
+        var problemInstance = new Problem(initialState: "start_state");
+        var solutionNode = BestFirstSearch(problemInstance, f: node => node.PathCost + h(node.State));
+
+        if (solutionNode != null)
+        {
+            Console.WriteLine("Solution found: " + solutionNode.State);
+        }
+        else
+        {
+            Console.WriteLine("No solution found.");
+        }
+    }
+}
