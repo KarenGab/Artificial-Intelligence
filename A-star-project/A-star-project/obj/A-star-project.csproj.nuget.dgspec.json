@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj": {}
+    "C:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj": {}
   },
   "projects": {
-    "c:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj": {
+    "C:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj",
+        "projectUniqueName": "C:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj",
         "projectName": "A-star-project",
-        "projectPath": "c:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj",
+        "projectPath": "C:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\A-star-project.csproj",
         "packagesPath": "C:\\Users\\karengu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\obj\\",
+        "outputPath": "C:\\Users\\karengu\\Documents\\Personales\\Maestría\\IA\\Dev\\Artificial-Intelligence\\A-star-project\\A-star-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karengu\\AppData\\Roaming\\NuGet\\NuGet.Config",
